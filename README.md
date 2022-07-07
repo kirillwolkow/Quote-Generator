@@ -7,3 +7,5 @@ A simple Quote Generator with Quote API.
 - CSS
 - Vanilla JavaScript
 - (Coffee)
+
+**Live Preview:** https://kirillwolkow.github.io/Quote-Generator/
